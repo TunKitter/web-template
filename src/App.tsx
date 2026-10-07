@@ -1,6 +1,7 @@
+import { Home } from "lucide-react"
 
 function App() {
-  return <h1>Hi, {Math.random()}</h1>
+  return <h1>Hi, <Home /></h1>
 }
 
 export default App
